@@ -3,5 +3,5 @@ name=PixelSounds
 version=v1.0
 versionCode=1
 author=Klara6502
-description=A module to replace stock Android sounds with Google Pixel sounds
+description=A module to replace stock Android system sounds, alarms, notifications and ringtones with Google Pixel sounds
 minMagisk=19000
